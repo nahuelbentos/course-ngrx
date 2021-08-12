@@ -1,3 +1,3 @@
-import * as CourseAction from './course.actions';
+import * as CourseActions from './course.actions';
 
-export {CourseAction};
+export {CourseActions};
